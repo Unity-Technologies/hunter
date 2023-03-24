@@ -8,6 +8,17 @@ hunter_add_version(
     PACKAGE_NAME
     PocoCpp
     VERSION
+    1.10.2-p0
+    URL
+    "https://codeload.github.com/Unity-Technologies/poco/tar.gz/refs/tags/1.10.2-p0"
+    SHA1
+    674d1c7f284531b7491d2a9b61ce6df201d6b7e2
+)
+
+hunter_add_version(
+    PACKAGE_NAME
+    PocoCpp
+    VERSION
     1.10.1-p0
     URL
     "https://github.com/cpp-pm/poco/archive/v1.10.1-p0.zip"
